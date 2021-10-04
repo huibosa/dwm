@@ -10,8 +10,8 @@ static const int topbar             = 1;        /* 0 means bottom bar */
 static const Bool viewontag         = True;     /* Switch view on tag switch */
 static const char *fonts[]          = { "Source Code Pro:size=10" };
 static const char dmenufont[]       = "Souce Code Pro:size=10";
-static const char col_gray1[]       = "#222222";
-static const char col_gray2[]       = "#2d3d57";
+static const char col_gray1[]       = "#2b3339";
+static const char col_gray2[]       = "#4b565c";
 static const char col_gray3[]       = "#bbbbbb";
 static const char col_gray4[]       = "#eeeeee";
 static const char col_cyan[]        = "#0ddb9a";
